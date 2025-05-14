@@ -4,8 +4,6 @@
 body{
     font-family: 'Poppins', sans-serif;
     background-color: #CBDCDD;
-    overflow-x: hidden;
-    overflow-y: visible;
     margin: 0;
     padding: 0;
 }
